@@ -1,6 +1,4 @@
-# Question 2 - Homework 2
-# Created by Tung Thai
-setwd("C:/Users/tungt/OneDrive/Undergraduate/2019-2 SM/Machine Learning/Homework/Homework 2")
+setwd("...")
 library(rpart)
 library(readr)
 wine_train <- read_csv("winedata.csv")
