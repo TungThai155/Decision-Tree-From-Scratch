@@ -1,6 +1,4 @@
-# Question 3 - Homework 2
-# Created by Tung Thai
-setwd("C:/Users/tungt/OneDrive/Undergraduate/2019-2 SM/Machine Learning/Homework/Homework 2")
+setwd("...")
 library(readr)
 insects <- read_csv("insects_data.csv")
 # Create a name variable to store the name in insects data
